@@ -1,0 +1,6 @@
+@-moz-document domain("mail.google.com") {
+  span.y2{
+    display:block !important;
+    white-space: normal !important;
+  }
+}
